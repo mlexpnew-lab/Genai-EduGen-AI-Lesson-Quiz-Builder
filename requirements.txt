@@ -1,14 +1,5 @@
-streamlit
-python-dotenv
-pypdf
-google-generativeai
-chromadb
-tiktoken
-transformers>=4.30.0
-sentence-transformers>=2.2.2
 streamlit==1.39.0
 python-dotenv==1.0.1
 pypdf==5.0.1
 google-generativeai==0.8.3
-chromadb==0.5.5
-tiktoken==0.7.0
+numpy==1.26.4
